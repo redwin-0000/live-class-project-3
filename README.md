@@ -2,4 +2,5 @@
 # Title
 # live-class-project-3
 # while making this websitye, i learn flex-box,css, and position.
-![4](https://user-images.githubusercontent.com/109889191/187681983-197ae78d-9942-4077-81da-bb2d84d4baed.png)
+
+![j3](https://user-images.githubusercontent.com/109889191/188102135-a5104973-7f9c-42f8-a670-367ec11018b2.png)
